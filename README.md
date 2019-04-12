@@ -1,4 +1,4 @@
-# allennlp name language prediction
+# allennlp name language classifier
 This repository aims at using allennlp framework to predict the language of a name.
 
 # Test
