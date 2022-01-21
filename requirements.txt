@@ -61,7 +61,7 @@ image-geometry==1.13.0
 imagesize==1.1.0
 interactive-markers==1.11.4
 ipykernel==5.1.0
-ipython==7.4.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
 jedi==0.13.3
